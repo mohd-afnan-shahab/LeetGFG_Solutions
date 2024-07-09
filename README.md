@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
+| [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
 | ------- |
