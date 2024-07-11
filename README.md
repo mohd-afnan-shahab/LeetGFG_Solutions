@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
