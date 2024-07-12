@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
