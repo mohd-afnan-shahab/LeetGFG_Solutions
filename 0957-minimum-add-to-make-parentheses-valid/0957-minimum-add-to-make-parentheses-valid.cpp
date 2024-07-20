@@ -15,5 +15,8 @@ public:
             }
         }
         return count + st.size();
+
+        //st.size() -> unmatched opening parenthesis
+        //count     -> unmatched closing parenthesis
     }
 };
