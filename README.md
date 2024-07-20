@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 | [2645-pass-the-pillow](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2645-pass-the-pillow) |
 ## Array
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3468-find-the-encrypted-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
+| [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,5 +64,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
