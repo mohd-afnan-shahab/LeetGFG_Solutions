@@ -1,21 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        int max_ele = *max_element(nums.begin(), nums.end());
-        vector<int> hash(max_ele + 1, 0);
+        int n = nums.size();
+        int expected_sum = (n * (n + 1))/2;     // Sum of numbers from 0 to n
 
-        for(int i = 0; i < nums.size(); i++){
-            if (nums[i] <= max_ele) {
-                hash[nums[i]] = 1;
-            }
+        int actual_sum = 0;
+        for(auto num:nums){
+            actual_sum += num;
         }
-
-        for(int i = 0; i <= max_ele; i++){
-            if (hash[i] == 0){
-                return i;
-            }
-        }
-
-        return max_ele + 1;
+        return (expected_sum - actual_sum);
     }
 };
