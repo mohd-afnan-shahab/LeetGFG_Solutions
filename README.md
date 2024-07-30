@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -57,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
