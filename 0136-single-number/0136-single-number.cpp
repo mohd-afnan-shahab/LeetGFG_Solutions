@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+    // time and space complexity is O(n) and O(n)
     int singleNumber(vector<int>& nums) {
         unordered_map<int, int> mpp;
 
