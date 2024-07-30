@@ -12,6 +12,6 @@ public:
 
         if(nums[n-1] > nums[0]) count++;
 
-        return count<=1;
+        return count<=1;    //true if count is 0 and 1
     }
 };
