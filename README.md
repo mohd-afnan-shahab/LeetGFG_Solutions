@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
@@ -123,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
