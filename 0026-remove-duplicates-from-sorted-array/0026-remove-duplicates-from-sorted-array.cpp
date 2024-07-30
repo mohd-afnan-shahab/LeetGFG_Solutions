@@ -1,20 +1,17 @@
 class Solution {
 public:
+    // optimised approach using two pointer TC => O(N) SC => O(1)
     int removeDuplicates(vector<int>& nums) {
-        //set contains unique elements and it taked in ascending order
+        int n = nums.size();
 
-        set<int> st;
-        for(int i = 0; i < nums.size(); i++){
-            st.insert(nums[i]);             // o(NlogN)
+        int i = 0;
+        for(int j = 1; j < n; j++){
+            if(nums[j] != nums[i]){
+                nums[i + 1] = nums[j];
+                i++;
+            }
         }
-
-        //iterate in set
-        int ind = 0;
-        for(auto it:st){
-            nums[ind] = it;
-            ind++;
-        }
-        
-        return ind; //count them
+        return (i+1);
+     
     }
 };
