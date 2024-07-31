@@ -28,4 +28,6 @@ public:
         if(count > (n / 2)) return  element;
         return -1;
     }
+
+    // time and space complexity O(N) and o(1).
 };
