@@ -5,7 +5,7 @@ public:
         int n = matrix[0].size();   // col size
 
         // Initialize the result matrix with transposed dimensions (n x m)
-        vector<vector<int>> result(n, vector<int>(m));
+        vector<vector<int>> result(n, vector<int>(m)); 
 
         // Transpose the matrix
         for(int i = 0; i < m; i++){
