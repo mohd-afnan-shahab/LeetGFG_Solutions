@@ -26,6 +26,6 @@ public:
             longest = max(currCount, longest);
         }
 
-        return longest; // Return the longest consecutive sequence found
+        return longest;
     }       
 };
