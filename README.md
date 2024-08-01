@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 ## Bit Manipulation
 |  |
