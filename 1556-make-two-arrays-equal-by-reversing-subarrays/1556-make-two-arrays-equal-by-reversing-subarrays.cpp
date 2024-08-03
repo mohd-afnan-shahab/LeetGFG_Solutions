@@ -1,15 +1,23 @@
 class Solution {
 public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
-        int n = target.size();
-
-        sort(target.begin(), target.end());
-        sort(arr.begin(), arr.end());
-
-        for(int i = 0; i < n; i++){
-            if(target[i] != arr[i]) return false;
+        unordered_map<int, int> mpp;
+        
+        for(auto &num : target){
+            mpp[num]++;
         }
-        return true;
+
+        for(int &num : arr){
+            // if koi element mila hi nahi map me
+            if(mpp.find(num) == mpp.end()){
+                return false;
+            }
+
+            mpp[num]--;
+            if(mpp[num] == 0){
+                mpp.erase(num);
+            }
+        }
+        return mpp.size() == 0;
     }
-    
 };
