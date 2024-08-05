@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3468-find-the-encrypted-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0169-majority-element) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
