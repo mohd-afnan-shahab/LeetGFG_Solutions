@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [2645-pass-the-pillow](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
