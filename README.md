@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0075-sort-colors) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
