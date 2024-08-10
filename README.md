@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
