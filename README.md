@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1013-fibonacci-number) |
 ## Union Find
@@ -231,5 +233,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
