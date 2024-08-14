@@ -18,11 +18,12 @@ public:
             }
         }
 
-        while(j < n){
-            nums[j] = 0;
-            j++;
-        }
-        // fill(nums.begin() + j, nums.end(), 0);
+        // while(j < n){
+        //     nums[j] = 0;
+        //     j++;
+        // }
+        
+        fill(nums.begin() + j, nums.end(), 0);
 
         return nums;
     }
