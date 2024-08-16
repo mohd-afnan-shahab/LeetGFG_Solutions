@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
+| [0624-maximum-distance-in-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
