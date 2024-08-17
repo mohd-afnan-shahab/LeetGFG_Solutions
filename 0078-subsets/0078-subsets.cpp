@@ -1,30 +1,30 @@
 class Solution {
 public:
 
-    void subsequence(vector<int>& nums, int ind, int n, 
-                    vector<vector<int>> &ans,
-                    vector<int> temp)
+    void generateSubsets(vector<int>& nums, int ind, 
+                         vector<vector<int>>& ans,
+                         vector<int>& temp)
     {
-
-        if(ind == n){
+        if (ind == nums.size()) {
             ans.push_back(temp);
             return;
         }
 
-        // if im not taking..
-        subsequence(nums, ind + 1, n, ans, temp);
+        // If not taking the current element
+        generateSubsets(nums, ind + 1, ans, temp);
 
-        // if im taking.. (yes)
+        // If taking the current element
         temp.push_back(nums[ind]); 
-        subsequence(nums, ind + 1, n, ans, temp);
+        generateSubsets(nums, ind + 1, ans, temp);
 
+        // Backtrack to remove the last added element
+        temp.pop_back();
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
         vector<int> temp;
         vector<vector<int>> ans;
-        subsequence(nums, 0, n, ans, temp);
+        generateSubsets(nums, 0, ans, temp);
 
         return ans;
     }
