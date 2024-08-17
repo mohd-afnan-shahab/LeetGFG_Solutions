@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0136-single-number) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
