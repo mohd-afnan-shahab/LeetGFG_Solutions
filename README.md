@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0273-integer-to-english-words) |
+| [0412-fizz-buzz](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1013-fibonacci-number) |
 | [2645-pass-the-pillow](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2645-pass-the-pillow) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
