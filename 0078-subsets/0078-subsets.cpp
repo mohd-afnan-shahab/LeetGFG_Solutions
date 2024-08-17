@@ -13,12 +13,12 @@ public:
         // If not taking the current element
         generateSubsets(nums, ind + 1, ans, temp);
 
+
         // If taking the current element
         temp.push_back(nums[ind]); 
         generateSubsets(nums, ind + 1, ans, temp);
 
-        // Backtrack to remove the last added element
-        temp.pop_back();
+        temp.pop_back(); // Backtrack to remove the last added element
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
