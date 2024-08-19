@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -253,5 +254,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
