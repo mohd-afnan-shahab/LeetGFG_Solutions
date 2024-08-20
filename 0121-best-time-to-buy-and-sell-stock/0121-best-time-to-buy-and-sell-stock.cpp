@@ -2,6 +2,8 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
+        if(n < 2) return 0; // Early return for edge case
+        
         int minPrice = prices[0];
         int maxProfit = 0;
 
