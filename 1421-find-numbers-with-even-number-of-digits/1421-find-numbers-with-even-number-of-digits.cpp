@@ -2,16 +2,20 @@ class Solution {
 public:
     int findNumbers(vector<int>& nums) {
         int n = nums.size();
-        int count = 0;
+        int evenDigitCount = 0;
 
         for(const auto& num : nums){
-            string str = to_string(num);    // convert int to string
-            int length = str.length();      // length of the string
+            int digitCount = 0;
+            int temp = num;
+            while(temp > 0){
+                temp = temp / 10;
+                digitCount++;
+            }
 
-            if(length % 2 == 0){
-                count++;
+            if(digitCount % 2 == 0){
+                evenDigitCount++;
             }
         }
-        return count;
+        return evenDigitCount;
     }
 };
