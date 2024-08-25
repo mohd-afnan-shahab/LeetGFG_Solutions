@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 ## Recursion
 |  |
 | ------- |
@@ -267,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
