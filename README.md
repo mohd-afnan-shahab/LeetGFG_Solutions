@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0283-move-zeroes) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0921-spiral-matrix-iii) |
 ## Bit Manipulation
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 ## Recursion
 |  |
@@ -271,10 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
