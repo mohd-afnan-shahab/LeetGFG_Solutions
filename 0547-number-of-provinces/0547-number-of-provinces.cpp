@@ -4,7 +4,7 @@ public:
     void provinces_using_bfs(int vertex, vector<bool>& visited, vector<int> adjList[]){
         
         queue<int> q;
-        
+
         visited[vertex] = 1;
         q.push(vertex);
 
@@ -12,9 +12,9 @@ public:
             int node = q.front();
             q.pop();
 
-            for(int i = 0; i < adjList[node].size(); i++){
+            for(const auto& adjacencyNode : adjList[node]){
 
-                int adjacencyNode = adjList[node][i];
+                // int adjacencyNode = adjList[node][i];
                 if(!visited[adjacencyNode]){
                     visited[adjacencyNode] = 1;
                     q.push(adjacencyNode);
