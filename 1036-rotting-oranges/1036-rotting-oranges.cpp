@@ -5,6 +5,7 @@ public:
         // {{row, col}, minute}
         queue<pair<pair<int, int>, int>> q;
 
+        // Traverse the grid to find all the rotten oranges
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(grid[i][j] == 2){
@@ -34,11 +35,12 @@ public:
                 int nRow = row + deltaRow[i];
                 int nCol = col + deltaCol[i];
 
+                // Check if the new positions is within bounds, not visited, and contains a fresh orange.
                 if(nRow >= 0 && nRow < n && nCol >= 0 && nCol < m && 
                     visited[nRow][nCol] != 2 && grid[nRow][nCol] == 1)
                 { 
                     q.push({ {nRow, nCol}, minute + 1 });
-                    visited[nRow][nCol] = 2;
+                    visited[nRow][nCol] = 2;         
                 }
             }
         }
@@ -54,6 +56,7 @@ public:
 
         int mintime = BFS(grid, visited, n, m);
 
+        // Check if there are any fresh oranges left after BFS  
         for(int i = 0; i < n; i++){
             for(int j = 0; j < m; j++){
                 if(visited[i][j] != 2 && grid[i][j] == 1){
