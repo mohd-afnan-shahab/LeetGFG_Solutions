@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
 ## Recursion
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
@@ -311,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
