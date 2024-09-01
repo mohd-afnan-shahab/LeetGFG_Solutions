@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2645-pass-the-pillow) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
