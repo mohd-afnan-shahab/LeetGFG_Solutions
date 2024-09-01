@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+    // TIME COMPLEXITY :- O(m * n) = SPACE COMPLEXITY
     vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
         
         if(m * n != original.size()){
