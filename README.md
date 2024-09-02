@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -172,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Greedy
 |  |
