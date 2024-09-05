@@ -9,13 +9,11 @@ public:
             sum = sum - rolls[i];
         }
 
-        // Check if the remaining sum is valid (each missing roll must be between 1 and 6).
-        if(sum < n || sum > 6 * n) return {}; // Return empty if it's impossible.
+        if(sum < n || sum > 6 * n) return {}; 
 
-        // Create a result vector of size n, initially filling with the average value (sum/n).
         vector<int> result(n, sum / n);
         
-        int remainder = sum % n; // Calculate the remainder to distribute.
+        int remainder = sum % n;
 
         // Distribute the remainder by adding 1 to the first 'remainder' elements.
         for(int i = 0; i < remainder; i++){
