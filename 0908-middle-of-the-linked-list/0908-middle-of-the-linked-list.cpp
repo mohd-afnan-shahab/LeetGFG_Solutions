@@ -8,30 +8,30 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+// TORTOISE AND HARE APPROACH (slow and fast pointer)
+
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
 
-        //  count N
-        ListNode* temp = head;
-        int count = 0;
-
-        while(temp != NULL){
-            count++;
-            temp = temp -> next;
-        }       
-
-        int midNode = (count/2) + 1;
-        temp = head;
-
-        while(temp != NULL){
-            midNode--;
-            if(midNode == 0) break;
-
-            temp = temp -> next;
+        // Edge case: if the list is empty
+        if (head == nullptr) {
+            return nullptr;
         }
 
-        return temp;
+        // Initialize slowPointer and fastPointer to the head
+        ListNode* slowPointer = head;
+        ListNode* fastPointer = head;
 
+        // Move slowPointer by 1 and fastPointer by 2
+        // Loop will stop when fastPointer reaches the end of the list
+        while (fastPointer != nullptr && fastPointer->next != nullptr) {
+            slowPointer = slowPointer->next;            // slow moves by 1
+            fastPointer = fastPointer->next->next;      // fast moves by 2
+        }
+
+        // slowPointer will now be pointing to the middle node
+        return slowPointer;
     }
 };
