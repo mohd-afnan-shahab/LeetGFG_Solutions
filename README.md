@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
+| [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
+| [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
@@ -346,5 +348,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0206-reverse-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
