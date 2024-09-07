@@ -8,31 +8,44 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+// CONCEPT OF DUMMY NODE.
+// TC = O(n + m) and SC = O(1)
+
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        vector<int> vec;
         ListNode* temp1 = list1;
-        while(temp1 != nullptr){
-            vec.push_back(temp1->val);
-            temp1 = temp1->next;
-        }
-
         ListNode* temp2 = list2;
-        while(temp2 != nullptr){
-            vec.push_back(temp2->val);
-            temp2 = temp2->next;
+
+        // create a dummy node
+        ListNode* dummy = new ListNode(-1);
+        ListNode* temp = dummy;
+
+        while(temp1 != nullptr && temp2 != nullptr){
+
+            if(temp1->val < temp2->val){
+                temp->next = temp1; 
+                temp = temp1;
+
+                temp1 = temp1->next;
+            }
+
+            else{
+                temp->next = temp2;
+                temp = temp2;
+
+                temp2 = temp2->next;
+            }
         }
 
-        sort(vec.begin(), vec.end());
+        // if temp1 is still left
+        if(temp1){
+            temp->next = temp1;
+        }
 
-        // lets convert vector to linked list
-        ListNode* dummy = new ListNode(-1);
-        ListNode* current = dummy;
-
-        for(const auto& val : vec){
-            current->next = new ListNode(val);
-            current = current->next;
+        else{
+            temp->next = temp2;
         }
 
         return dummy->next;
