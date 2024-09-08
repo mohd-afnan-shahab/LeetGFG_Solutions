@@ -31,7 +31,7 @@ public:
         for(int i = 0; i < k; i++){
 
             result[i] = current;
-
+            
             for(int j = 1; j <= NodesInEach + (remainingNodes > 0 ? 1 : 0); j++){
 
                 prev = current;
@@ -39,6 +39,7 @@ public:
 
             }
 
+            // Disconnect the current part from the next part, if possible
             if(prev != nullptr){
                 prev -> next = nullptr;
             }
