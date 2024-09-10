@@ -25,13 +25,16 @@ public:
     int findCenter(vector<vector<int>>& edges) {
 
         // choose edge 0
-        vector<int> first = edges[0];   // {a. b}
+        vector<int> first = edges[0];   // {a, b}
         vector<int> second = edges[1];  // {c, a}
 
+        // check if first[0] is the center node
         if(first[0] == second[0] || first[0] == second[1]){
             return first[0];
         }
         
+        // otherwise, first[1] is the center node
         return first[1];
     }
+
 };
