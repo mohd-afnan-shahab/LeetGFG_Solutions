@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
