@@ -13,31 +13,23 @@ public:
     ListNode* deleteMiddle(ListNode* head) {
         
         if(head == nullptr || head -> next == nullptr) return nullptr;
-        // Traverse LL to calc length 
-        ListNode* temp = head;
-        int length = 0;
 
-        while(temp != nullptr){
-            length++;
-            temp = temp -> next;
+        ListNode* slowPointer = head;
+        ListNode* fastPointer = head;
+
+        fastPointer = head -> next -> next;      // skip 1 step of slow
+
+        while(fastPointer != nullptr && fastPointer -> next != nullptr){
+
+            slowPointer = slowPointer -> next;
+            fastPointer = fastPointer -> next -> next;
+            
         }
 
-        // calc mid positon 
-        int middle = length / 2;       
-        temp = head;
+        ListNode* midNode = slowPointer -> next;
+        slowPointer -> next = slowPointer -> next -> next;
+        delete(midNode);
 
-        while(temp != nullptr){
-            middle--;
-
-            if(middle == 0){
-                ListNode* midNode = temp -> next;
-                temp -> next = temp -> next -> next;
-                delete(midNode);
-            }
-
-            temp = temp -> next;
-        }
         return head;
-
     }
 };
