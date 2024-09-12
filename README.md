@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0906-walking-robot-simulation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0169-majority-element) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
