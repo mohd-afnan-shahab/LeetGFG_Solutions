@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Greedy
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
