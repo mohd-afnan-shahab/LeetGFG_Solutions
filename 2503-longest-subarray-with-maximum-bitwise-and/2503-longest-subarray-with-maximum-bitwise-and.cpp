@@ -18,9 +18,9 @@ public:
                 maxLength = 0;
             }
 
-            result = max(result, maxLength);  // Update result with the max length found so far
+            result = max(result, maxLength); 
         }
 
-        return result;  // Return the result, not maxLength
+        return result; 
     }
 };
