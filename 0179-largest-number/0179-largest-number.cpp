@@ -21,9 +21,11 @@ public:
             str = str + to_string(num);
         }
 
+        // Handle the case where the result is all zeros
         if(str[0] == '0'){
             return "0";
         }
+
         return str;
     }
 };
