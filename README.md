@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
@@ -410,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
