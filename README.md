@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2727-number-of-senior-citizens) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3468-find-the-encrypted-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
 |  |
@@ -415,4 +418,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0386-lexicographical-numbers) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
