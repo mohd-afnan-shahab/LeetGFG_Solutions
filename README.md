@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0729-my-calendar-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0729-my-calendar-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0729-my-calendar-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -419,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0386-lexicographical-numbers) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
