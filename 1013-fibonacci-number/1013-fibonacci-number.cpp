@@ -1,9 +1,22 @@
 class Solution {
 public:
-    int fib(int n) {
-        // Base Case
-        if(n <= 1) return n;
 
-        return (fib(n - 1) + fib(n - 2));
-    } 
+    // TIME COMPLEXITY - O(n) and SPACE COMPLEXITY - O(1)
+    int fib(int n) {
+
+        if(n <= 1){
+            return n;
+        }
+        int currentFib;
+        int previousFib = 1;
+        int secondPreviousFib = 0;
+
+        for (int i = 2; i <= n; i++) {
+            currentFib = previousFib + secondPreviousFib;
+            secondPreviousFib = previousFib;
+            previousFib = currentFib;
+        }
+
+        return currentFib;
+    }
 };
