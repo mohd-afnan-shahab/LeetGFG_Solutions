@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TIME COMPLEXITY - O(N) ans SPACE COMPLEXITY - O(k)
     bool canArrange(vector<int>& arr, int k) {
         vector<int> ans(k, 0);
 
