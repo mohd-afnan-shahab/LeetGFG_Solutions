@@ -1,5 +1,7 @@
 class Solution {
 public:
+    
+    // TIME COMPLEXITY - O(N) and SPACE COMPLEXITY - O(N)
     int minSubarray(vector<int>& nums, int p) {
         int n = nums.size();
 
