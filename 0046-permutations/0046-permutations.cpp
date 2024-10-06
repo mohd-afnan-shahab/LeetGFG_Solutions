@@ -1,6 +1,6 @@
 class Solution {
 public:
-
+    // TIME COMPLEXITY - O(n * n!) ans SPACE COMPLEXITY - O(N + N) {recursive call + visited array}
     void solve(vector<int>& nums, vector<int>& temp, vector<vector<int>>& ans, vector<bool>& visited){
 
         // base case : if temp.size() becomes equal to arr.size()
