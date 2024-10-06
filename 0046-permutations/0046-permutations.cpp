@@ -1,35 +1,27 @@
 class Solution {
 public:
-    // TIME COMPLEXITY - O(n * n!) ans SPACE COMPLEXITY - O(N + N) {recursive call + visited array}
-    void solve(vector<int>& nums, vector<int>& temp, vector<vector<int>>& ans, vector<bool>& visited){
+    void solve(int index, vector<int>& nums, vector<vector<int>>& ans){
 
-        // base case : if temp.size() becomes equal to arr.size()
-        if(nums.size() == temp.size()){
-            ans.push_back(temp);
+        // base case
+        if(index == nums.size()){
+            ans.push_back(nums);
             return;
         }
 
-        for(int i = 0; i < visited.size(); i++){
-            if(!visited[i]){
-                visited[i] = 1;
-                temp.push_back(nums[i]);
+        for(int i = index; i < nums.size(); i++){
 
-                // recursive call
-                solve(nums, temp, ans, visited);
+            swap(nums[i], nums[index]);
 
-                // backtrack
-                visited[i] = 0;
-                temp.pop_back();
-            }
+            // recursive call
+            solve(index + 1, nums, ans);
+
+            // backtrack
+            swap(nums[i], nums[index]);
         }
     }
-
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<int> temp;
         vector<vector<int>> ans;
-        vector<bool> visited(nums.size(), 0);
-
-        solve(nums, temp, ans, visited);
+        solve(0, nums, ans);
 
         return ans;
     }
