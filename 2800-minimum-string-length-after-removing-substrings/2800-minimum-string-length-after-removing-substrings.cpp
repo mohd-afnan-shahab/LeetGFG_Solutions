@@ -1,18 +1,26 @@
 class Solution {
 public:
-    // TIME COMPLEXITY - O(N) and SPACE COMPLEXITY - O(N)
+    // TIME COMPLEXITY - O(N) and SPACE COMPLEXITY - O(1)
     int minLength(string s) {
-        stack<char> ans;
+        int n = s.length();
 
-        for(auto& ch : s){
-            if(!ans.empty() && ((ch == 'B' && ans.top() == 'A') || (ch == 'D' && ans.top() == 'C'))) {
-                ans.pop();  
+        int l = 0, r = 1;
+        while(r < n){
+            if(l < 0){
+                l++;
+                s[l] = s[r];
             }
-            else {
-                ans.push(ch);  
+            else if(s[l] == 'A' && s[r] == 'B' || s[l] == 'C' && s[r] == 'D'){
+                l--;
             }
+            else{
+                l++;
+                s[l] = s[r];
+            }
+
+            r++;
         }
 
-        return ans.size();
+        return l + 1;
     }
 };
