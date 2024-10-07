@@ -1,13 +1,18 @@
 class Solution {
 public:
-    // TIME COMPLEXITY - O(N^2) ans SPACE COMPLEXITY - O(1)
+    // TIME COMPLEXITY - O(N) and SPACE COMPLEXITY - O(N)
     int minLength(string s) {
-        size_t pos;
+        stack<char> ans;
 
-        while( (pos = s.find("AB")) != string :: npos || (pos = s.find("CD")) != string :: npos){
-            s.erase(pos, 2);
+        for(auto& ch : s){
+            if(!ans.empty() && ((ch == 'B' && ans.top() == 'A') || (ch == 'D' && ans.top() == 'C'))) {
+                ans.pop();  
+            }
+            else {
+                ans.push(ch);  
+            }
         }
 
-        return s.length();
+        return ans.size();
     }
 };
