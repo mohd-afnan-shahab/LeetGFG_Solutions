@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
