@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TIME COMPLEXITY - O(N^2) ans SPACE COMPLEXITY - O(1)
     int minLength(string s) {
         size_t pos;
 
