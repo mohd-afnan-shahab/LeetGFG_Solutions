@@ -4,11 +4,11 @@ public:
     int minSwaps(string s) {
         int unbalanced = 0;
         
-        for(auto& ch : s){
+        for(char ch : s){
 
-            if(ch == '[') unbalanced++;
+            if(ch == '[') unbalanced += 1;
 
-            else if(ch == ']' && unbalanced > 0) unbalanced--;
+            else if(ch == ']' && unbalanced > 0) unbalanced -= 1;
 
         }
 
