@@ -1,17 +1,17 @@
 class Solution {
 public:
-    // TIME COMPLEXITY - O(N) ans SPACE COMPLEXITY - O(N)
+    // TIME COMPLEXITY - O(N) and SPACE COMPLEXITY - O(1)
     int minSwaps(string s) {
-        stack<char> st;
-
+        int unbalanced = 0;
+        
         for(auto& ch : s){
-            if(ch == '[') st.push(ch);
-            else if(!st.empty() && ch == ']'){
-                st.pop();   // A balanced pair of brackets
-            } 
-        } 
 
-        int unbalancedCount = st.size();
-        return (unbalancedCount + 1) / 2;
+            if(ch == '[') unbalanced++;
+
+            else if(ch == ']' && unbalanced > 0) unbalanced--;
+
+        }
+
+        return (unbalanced + 1) / 2;
     }
 };
