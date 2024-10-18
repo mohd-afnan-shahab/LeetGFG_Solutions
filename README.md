@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2411-spiral-matrix-iv](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2411-spiral-matrix-iv) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0078-subsets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -488,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
