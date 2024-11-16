@@ -1,23 +1,48 @@
 class Solution {
 public:
+
+    // subarray of k size in n array = n - k + 1
+
     vector<int> resultsArray(vector<int>& nums, int k) {
         int n = nums.size();
         vector<int> result(n-k+1, -1);
 
-        for(int i = 0; i <= n - k; i++){
-            bool isConsecutive = true;
+        int cnt = 1;    // cnt of consecutive ele
 
-            for(int j = i; j < i + k - 1; j++){
-                if(nums[j + 1] - nums[j] != 1){
-                    isConsecutive = false;
-                    break;
-                }
+        // preprocess the current window..
+        for(int i = 1; i < k; i++){
+
+            if(nums[i] == nums[i - 1] + 1){
+                cnt++;
             }
-
-            if(isConsecutive){
-                result[i] = *max_element(nums.begin() + i, nums.begin() + i + k);
+            else{
+                cnt = 1;
             }
         }
+
+        if(cnt == k){
+            result[0] = nums[k - 1];
+        }
+
+        int i = 1;
+        int j = k;
+
+        while(j < n){
+            if(nums[j] == nums[j-1] + 1){
+                cnt++;
+            }
+            else{
+                cnt = 1;
+            }
+
+            if(cnt >= k){
+                result[i] = nums[j];
+            }
+
+            i++;
+            j++;
+        }
+
 
         return result;
     }
