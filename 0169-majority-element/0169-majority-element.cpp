@@ -2,32 +2,20 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int element;
-        int count = 0;
 
-        for(auto num : nums){
-            if(count == 0){
-                count = 1;
-                element = num;
-            }
-            else if(element == num){
-                count++;
-            }
-            else
-                count--;
+        map<int, int> mpp;
+
+        for(int i = 0; i < n; i++){
+            mpp[nums[i]]++;
         }
 
-        // second pass to confirm the element
-        count = 0;
-        for(auto num : nums){
-            if(element == num){
-                count++;
+        // iterate in map
+        for(auto& it : mpp){
+            if(it.second > (n / 2)){
+                return it.first;
             }
         }
 
-        if(count > (n / 2)) return  element;
         return -1;
     }
-
-    // time and space complexity O(N) and o(1).
 };
