@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
