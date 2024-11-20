@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0202-happy-number) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0198-house-robber) |
@@ -544,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
