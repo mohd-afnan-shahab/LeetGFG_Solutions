@@ -1,31 +1,33 @@
 class Solution {
 public:
-
-    // TC - O(2^(m*n)) and SC - O( (m-1) + (n-1))
-
-    int helperFunc(int i, int j, vector<vector<int>>& dp){
-
-        if(i == 0 && j == 0) return 1;
-        
-        if(i < 0 || j < 0) return 0;
-        
-        // step.2
-        if(dp[i][j] != -1) return dp[i][j];
-
-        int up = helperFunc(i-1, j, dp);
-        int left = helperFunc(i, j-1, dp);
-
-        // step.1
-        dp[i][j] = up + left;
-        return dp[i][j];
-    }
-
+    
+    // Tabulation method
     int uniquePaths(int m, int n) {
-        int i = m - 1;
-        int j = n - 1;
+        
+        // initialize dp with 0
+        vector<vector<int>> dp(m, vector<int>(n, 0)); 
 
-        vector<vector<int>> dp(m, vector<int>(n, -1));
+        // filling the base case
+        dp[0][0] = 1;
 
-        return helperFunc(i, j, dp);
+        // expressing all stated (i, j) in for loops
+        for(int i = 0; i < m; i++){
+
+            for(int j = 0; j < n; j++){
+
+                if(i == 0 && j == 0) continue;
+
+                else {
+                    int up = 0, left = 0;
+
+                    if(i > 0) up = dp[i-1][j];
+                    if(j > 0) left = dp[i][j-1];
+
+                    dp[i][j] = up + left;
+                }
+            }
+        }
+
+        return dp[m-1][n-1];  
     }
 };
