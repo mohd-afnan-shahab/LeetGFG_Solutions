@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0053-maximum-subarray) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0141-linked-list-cycle) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0070-climbing-stairs) |
