@@ -1,41 +1,39 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        // Create temp array to store first m elements of nums1
-        vector<int> temp;
-        for(int i = 0; i < m; i++) {
-            temp.push_back(nums1[i]);
+
+        vector<int> arr1(m);
+        for(int i = 0; i < m; i++){
+            arr1[i] = nums1[i];
         }
-        
-        int i = 0;  // for temp array
-        int j = 0;  // for nums2
-        int index = 0;  // for nums1
-        
-        // Merge while elements exist in both arrays
-        while(i < m && j < n){
-            if(temp[i] <= nums2[j]){
-                nums1[index] = temp[i];
-                i++;
+
+        int l = 0, r = 0;
+        int idx = 0;
+
+        while(l < m && r < n){
+            if(arr1[l] < nums2[r]){
+                nums1[idx] = arr1[l];
+                idx++;
+                l++;
             }
-            else {
-                nums1[index] = nums2[j];
-                j++;
+            else{
+                nums1[idx] = nums2[r];
+                idx++;
+                r++;
             }
-            index++;
         }
-        
-        // Copy remaining elements from temp
-        while(i < m){
-            nums1[index] = temp[i];
-            i++;
-            index++;
+
+        while(l < m){
+            nums1[idx] = arr1[l];
+            idx++;
+            l++;
         }
-        
-        // Copy remaining elements from nums2
-        while(j < n){
-            nums1[index] = nums2[j];
-            j++;
-            index++;
+
+        while(r < n){
+            nums1[idx] = nums2[r];
+            idx++;
+            r++;
         }
+
     }
 };
