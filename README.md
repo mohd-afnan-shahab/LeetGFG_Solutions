@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0542-01-matrix) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0906-walking-robot-simulation) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Sliding Window
