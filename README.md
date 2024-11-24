@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0729-my-calendar-i) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1755-defuse-the-bomb](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1755-defuse-the-bomb) |
