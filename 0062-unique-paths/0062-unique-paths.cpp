@@ -12,19 +12,17 @@ public:
 
                 if(i == 0 && j == 0) continue;
 
-                else{
-                    int up = 0, left = 0;
+                int up = 0, left = 0;
 
-                    if(i > 0){
-                        up = up + dp[i-1][j];
-                    }
+                if(i > 0){
+                    up = up + dp[i-1][j];
+                }
 
-                    if(j > 0){
-                        left = left + dp[i][j-1];
-                    }
+                if(j > 0){
+                    left = left + dp[i][j-1];
+                }
 
-                    dp[i][j] = up + left;
-                } 
+                dp[i][j] = up + left;
             } 
         } 
 
