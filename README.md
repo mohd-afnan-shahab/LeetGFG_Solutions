@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0542-01-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
