@@ -1,35 +1,33 @@
 class Solution {
 public:
+    int uniquePathsWithObstacles(vector<vector<int>>& grid) {
+        int m = grid.size();        // row size
+        int n = grid[0].size();     // col size
 
-    int helper(int i, int j, vector<vector<int>>& obstacleGrid, vector<vector<int>>& dp){
+        vector<vector<int>> dp(m, vector<int>(n));
 
-        if(i >= 0 && j >= 0 && obstacleGrid[i][j] == 1) return 0;
+        // base case starting cell
+        if(grid[0][0] == 1) return 0;
+        dp[0][0] = 1;
 
-        // base case
-        if(i == 0 && j == 0) return 1;
+        // iterate in grid grom m-1, n-1
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
 
-        if(i < 0 || j < 0) return 0;
+                if(grid[i][j] == 1) dp[i][j] = 0;   // dead end
 
-        // step 1 - check before calling helper func
-        if(dp[i][j] != -1) return dp[i][j];
+                else if(i == 0 && j == 0) dp[i][j] = 1;
 
-        int up = helper(i-1, j, obstacleGrid, dp);
-        int left = helper(i, j-1, obstacleGrid, dp);
+                else{
+                    int up = 0, left = 0;
+                    if(i > 0) up = dp[i-1][j];
+                    if(j > 0) left = dp[i][j-1];
 
-        // step 2 - store before returning
-        dp[i][j] = (up + left);
-        return dp[i][j];
-    }
+                    dp[i][j] = up + left;
+                }
+            }
+        }
 
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        
-        int m = obstacleGrid.size();    // row size
-        int n = obstacleGrid[0].size();     // col size
-
-        // initialize a dp array
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-
-        return helper(m-1, n-1, obstacleGrid, dp);
-
+        return dp[m-1][n-1];
     }
 };
