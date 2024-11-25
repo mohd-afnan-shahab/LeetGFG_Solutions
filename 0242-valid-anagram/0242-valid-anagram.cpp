@@ -4,9 +4,25 @@ public:
         
         if(s.length() != t.length()) return false;
 
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
+        vector<int> freq(26, 0);
 
-        return s==t;
+        int l = 0, r = 0;
+        while(l < s.length() && r < t.length()){
+            
+            // increment count for char in s
+            freq[s[l] - 'a']++;
+
+            // decrement count for char in t
+            freq[t[r] - 'a']--;
+
+            l++;
+            r++;
+        }
+
+        for(int i = 0; i < freq.size(); i++){
+            if(freq[i] != 0) return false;
+        }
+
+        return true;
     }
 };
