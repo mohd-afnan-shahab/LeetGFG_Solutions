@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0063-unique-paths-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0141-linked-list-cycle) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0179-largest-number) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0088-merge-sorted-array) |
