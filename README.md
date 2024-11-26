@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1916-find-center-of-star-graph](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1916-find-center-of-star-graph) |
+| [3189-find-champion-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
