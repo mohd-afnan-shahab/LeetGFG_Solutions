@@ -1,33 +1,23 @@
 class Solution {
 public:
 
-    void provinces_using_bfs(int vertex, vector<bool>& visited, vector<int> adjList[]){
+    void dfs(int node, vector<vector<int>>& adjList, vector<int>& visited){
+        visited[node] = 1;
         
-        queue<int> q;
-
-        visited[vertex] = 1;
-        q.push(vertex);
-
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-
-            for(const auto& adjacencyNode : adjList[node]){
-
-                // int adjacencyNode = adjList[node][i];
-                if(!visited[adjacencyNode]){
-                    visited[adjacencyNode] = 1;
-                    q.push(adjacencyNode);
-                } 
+        for(auto& it : adjList[node]){
+            if(!visited[it]){
+                dfs(it, adjList, visited);
             }
         }
     }
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        
-        // convert adjacency matrix to adjacency list
-        int V = isConnected.size();
-        vector<int> adjList[V];
 
+    int findCircleNum(vector<vector<int>>& isConnected) {
+
+        int V = isConnected.size();
+
+        vector<vector<int>> adjList(V);
+
+        // convert adjMatrix (isConnected) to adjList
         for(int i = 0; i < V; i++){
             for(int j = 0; j < V; j++){
                 if(isConnected[i][j] == 1 && i != j){
@@ -37,15 +27,16 @@ public:
             }
         }
 
-        vector<bool> visited(V, 0);
+        vector<int> visited(V, 0);
 
-        int count = 0;
+        int cnt = 0;
         for(int i = 0; i < V; i++){
-            if(visited[i] == 0){
-                count++;
-                provinces_using_bfs(i, visited, adjList);
+            if(!visited[i]){
+                cnt++;
+                dfs(i, adjList, visited);
             }
         }
-        return count;
+
+        return cnt;
     }
 };
