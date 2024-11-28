@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0820-find-eventual-safe-states) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0801-is-graph-bipartite) |
@@ -562,11 +564,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
