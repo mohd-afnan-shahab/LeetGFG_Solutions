@@ -14,12 +14,12 @@ public:
 
             int levelsize = q.size();
             
-            vector<int> inter(levelsize);
+            vector<int> inter;
             for(int i = 0; i < levelsize; i++){
                 TreeNode* node = q.front();
                 q.pop();
 
-                inter[i] = node -> val;
+                inter.push_back(node -> val);
 
                 if(node -> left) q.push(node -> left);
                 if(node -> right) q.push(node -> right);
