@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0539-minimum-time-difference) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
