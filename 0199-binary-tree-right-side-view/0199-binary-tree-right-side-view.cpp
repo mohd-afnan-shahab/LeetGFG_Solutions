@@ -1,28 +1,23 @@
 class Solution {
 public:
-    vector<int> rightSideView(TreeNode* root) {
-        
-        if(root == NULL) return {};
+    // Using DFS approach
 
-        queue<TreeNode*> q;
-        q.push(root);
+    void preOrder(TreeNode* root, int level, vector<int>& result){
+        if(root == NULL) return;
 
-        vector<int> ans;
-        while(!q.empty()){
-
-            int n = q.size();
-            TreeNode* node = NULL;
-            while(n--){
-                node = q.front();
-                q.pop();
-
-                if(node -> left) q.push(node -> left);
-                if(node -> right) q.push(node -> right);
-            }
-
-            ans.push_back(node -> val);
+        if(result.size() < level){
+            result.push_back(root -> val);
         }
 
-        return ans;
+        preOrder(root -> right, level + 1, result);
+        preOrder(root -> left, level + 1, result);
+    }
+
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int> result;
+
+        preOrder(root, 1, result);
+
+        return result;
     }
 };
