@@ -1,17 +1,19 @@
 class Solution {
 public:
-    // optimised approach using two pointer TC => O(N) SC => O(1)
     int removeDuplicates(vector<int>& nums) {
         int n = nums.size();
 
-        int i = 0;
-        for(int j = 1; j < n; j++){
-            if(nums[j] != nums[i]){
-                nums[i + 1] = nums[j];
-                i++;
-            }
+        set<int> st;
+        for(int i = 0; i < n; i++){
+            st.insert(nums[i]);
         }
-        return (i+1);
-     
+
+        int idx = 0;
+        for(auto& it : st){
+            nums[idx] = it;
+            idx++;
+        }
+
+        return idx;
     }
 };
