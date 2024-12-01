@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0920-uncommon-words-from-two-sentences](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/0731-my-calendar-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1646-kth-missing-positive-number](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1646-kth-missing-positive-number) |
