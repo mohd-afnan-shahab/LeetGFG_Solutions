@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Matrix
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohd-afnan-shahab/LeetGFG_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
